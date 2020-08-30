@@ -6,6 +6,11 @@
   padding: 0;
   margin: 0;
 }
+.teksti_amita {
+  font-family: "Amita", cursive;
+  font-weight: 700;
+  font-size: 3em;
+}
 * {
   box-sizing: border-box;
   color: white;
